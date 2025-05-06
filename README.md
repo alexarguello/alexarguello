@@ -1,4 +1,4 @@
-### 👋 Hello there! I'm Alex (@alexarguello), a Java enthusiast exploring the exciting worlds of AI, Accessibility and Enterprise development.
+### 👋 Hello there! I'm Alex (@alexarguello), a software engineer exploring the exciting worlds of AI, Accessibility and Enterprise development.
 
 ### 👀 I'm deeply interested in:
 - ☕ Crafting robust and scalable enterprise applications with Java
