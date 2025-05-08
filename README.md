@@ -34,8 +34,5 @@
 ### ⏳ Collaboration availability:
 - I'm available for casual contributions to open source projects alongside my primary job.
 
-### ✨ Fun fact: I'm a sucker for those simple "Aha!" tech demos and tutorials that unlock a cool new understanding. When I'm not in my computer 💻, you might find me in a butterfly garden 🦋.
-<!---
-alexarguello/alexarguello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ✨ Fun fact: I'm a sucker for those simple "Aha!" tech demos and tutorials that unlock a cool new understanding. When I'm not in my computer 💻, you might find me in a dancing or enjoying nature 🦋.
+
