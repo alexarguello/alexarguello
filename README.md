@@ -1,38 +1,57 @@
-### 👋 Hello there! I'm Alex (@alexarguello), a software engineer exploring the exciting worlds of AI, Accessibility and Enterprise development.
+# Alex Arguello (@alexarguello)
 
-### 👀 I'm deeply interested in:
-- ☕ Crafting robust and scalable enterprise applications with Java
-- 🤖 Unraveling the potential of Artificial Intelligence to improve user experiences
-- ♿ Championing digital accessibility and inclusive design
-- 🏢 Building resilient and efficient enterprise-level solutions
+Software engineer working at the intersection of **Enterprise Java**, **Artificial Intelligence**, and **Digital Accessibility**.
 
-### 🌱 I'm currently learning:
-- 🧠 The fundamentals and practical applications of AI
-- ♿ Best practices and WCAG guidelines for web accessibility
-- ☁️ Java frameworks relevant to enterprise Java development
+I explore how ideas become **intentional, scalable, and inclusive solutions**.
 
-### 💞️ I'm looking to collaborate on:
-- 🛠️ Open source projects focused on enhancing digital accessibility. I'm eager to contribute my Java and enterprise development skills in this domain.
-- 💡 Initiatives that explore the intersection of AI and accessibility to create more inclusive technologies.
+---
 
-### 🛠️ My current tech stack includes:
-- ☕ Java
-- 🟦 Vaadin
-- ⚙️ Gradle
-- 🚀 Spring Framework
-- 💾 Databases: DB2, Microsoft SQL Server
+## 🧭 The Framework
 
-### 🔭 My GitHub journey:
-- 🌱 Currently focused on contributing to open source and building a portfolio of impactful projects.
+I’m sharing a practical framework for **early‑stage ideas**.
 
-### 🧑‍🏫 Seeking knowledge in:
-- 🧠 Artificial Intelligence, Spring AI - eager to learn from and collaborate with those experienced in the field.
+It helps:
+- Clarify direction before execution
+- Reduce risk and uncertainty
+- Connect technical, human, and business thinking
 
-### 📫 Let's connect!
+It works for **any new idea** - products, features, initiatives, or experiments—  
+especially *before* deeply studying the environment.
+
+I publish the steps progressively through posts and real examples.
+
+---
+
+## Focus Areas
+
+- ☕ Enterprise Java & system design  
+- 🤖 AI‑driven development and workflows  
+- ♿ Accessibility & inclusive design  
+- 🏗️ Enterprise architecture thinking  
+
+---
+
+## Toolbox
+
+Java · Spring · Vaadin · Gradle  
+DB2 · Microsoft SQL Server
+
+---
+
+## Here on GitHub
+
+- Experiments that support the framework  
+- Small, focused proofs of concept  
+- Ideas in progress
+
+---
+
+## Connect
 - [![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/alexarguellosaenz)
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-arguello-saenz)
-### ⏳ Collaboration availability:
+ 
+## ⏳ Collaboration availability:
 - I'm available for casual contributions to open source projects alongside my primary job.
 
-### ✨ Fun fact: I'm a sucker for those simple "Aha!" tech demos and tutorials that unlock a cool new understanding. When I'm not in my computer 💻, you might find me dancing or enjoying nature 🦋.
+✨ Fun fact: I'm a sucker for those simple "Aha!" tech demos and tutorials that unlock a cool new understanding. When I'm not in my computer 💻, you might find me dancing or enjoying nature 🦋.
 
